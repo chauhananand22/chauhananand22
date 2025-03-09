@@ -13,7 +13,7 @@ I am a passionate UI/UX designer, Graphic Designer & Web developer. I am a Web D
 <p align="left">
 <a href="https://www.linkedin.com/in/anand-chauhan-585859224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand chauhan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/an_d_chauhan/profilecard/?igsh=MXF6N2RmNmQ4eXZ3OA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pru_pithadiya007" height="30" width="40" /></a>
-<a href="https://github.com/chauhananand22" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="css3" width="40" height="40"/> </a>
+<i class="devicon-github-original"><a href="https://github.com/chauhananand22" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="css3" width="40" height="40"/> </a></i>
 </p>
 
 ## Languages and Tools:
